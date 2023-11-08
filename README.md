@@ -4,12 +4,11 @@
 
 ### Education
 - Information technology |  Atlantic Technical College (_Juin 2023)
-_ Web developement | Atlantic Technical College (_Juin 2022)
+- Web developement | Atlantic Technical College (_Juin 2022)
 
 ### Work Experience
 Database design @ Jules exit media
--Sales inventory project
--Travel destination project
+- Sales inventory project
+- Travel destination project
 
-###
-Tripperz
+### Tripperz
