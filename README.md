@@ -3,8 +3,8 @@
 #### Technical Skills: SQL, Python, Oracle, AWS, Snawflake, HTML, CSS, JavaScript
 
 ### Education
-- Information technology |  Atlantic Technical College (_Juin 2023)
-- Web developement | Atlantic Technical College (_Juin 2022)
+- Information technology |  Atlantic Technical College (Juin 2023)
+- Web developement | Atlantic Technical College (Juin 2022)
 
 ### Work Experience
 Database design @ Jules exit media
