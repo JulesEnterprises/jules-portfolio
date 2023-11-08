@@ -1,8 +1,10 @@
 # Database Developer
 
+#### Technical Skills: SQL, Python, Oracle, AWS, Snawflake, HTML, CSS, JavaScript
+
 ### Education
-Information technology
-Database Programming and design
+- Information technology |  Atlantic Technical College (_Juin 2023)
+_ Web developement | Atlantic Technical College (_Juin 2022)
 
 ### Work Experience
 Database design @ Jules exit media
