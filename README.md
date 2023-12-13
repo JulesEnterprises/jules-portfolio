@@ -6,15 +6,14 @@
 - Oracle, AWS, Snawflake, HTML, CSS, JavaScript
 
 # Porjects
-
-### Youtube Channel Annalysis
-## Personal Project | Pantation, FL
+## Youtube Channel Annalysis
+#### Personal Project | Pantation, FL
 - Utilized Python to analyze Youtube channels and gain insights into the online presence and popularity of the specified artists base on their channel statistics.
 - Implemented Youtube API technique using python to analyze the channels key metrics,  including views, and subscribers.
 - Aggregated and visualized the data by using Pandas, Seaborn to compile a professional report.
 
 
-### Iphanie Supermarket inventory
+## Iphanie Supermarket inventory
 #### Personal Project | Plantation, FL
 - Utilized SQL
 
