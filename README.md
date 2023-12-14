@@ -25,12 +25,12 @@
 - Oracle Database Modeler: Was used for the design of our [Tables](https://github.com/JulesEnterprises/jules-portfolio/blob/main/assets/Table_update.png) and [ERDs](https://github.com/JulesEnterprises/jules-portfolio/blob/main/assets/ERD_update.png).
 
 ### Education
-- Information technology | Atlantic Technical College (Jun 2023)
-- Web developement | Atlantic Technical College (Juin 2022)
+- Information technology | Atlantic Technical College (_Jun 2023_)
+- Web developement | Atlantic Technical College (_Juin 2022_)
 - Orthopedict Technologist | Atlantic Technical College (Jun 2018)
 
 ### Work Experience
-- Database Developer | Web Developer @ JulesExitMedia (2021 - Present) <br/>
-- GO @ JetBlue (2021 - Present) <br/>
-- Orthopedict Tech | Inventory manager @ BHN Hospital (2018 - October 2021)
+- Database Developer | Web Developer @ JulesExitMedia (_2021 - Present_)
+- GO @ JetBlue (_2021 - Present_) <br/>
+- Orthopedict Tech | Inventory manager @ BHN Hospital (_2018 - October 2021_)
 
