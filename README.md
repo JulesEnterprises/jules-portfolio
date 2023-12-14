@@ -30,6 +30,7 @@
 - Orthopedict Technologist | Atlantic Technical College (Jun 2018)
 
 ### Work Experience
--Database Developer | Web Developer @ Jules exit media (2021 - Present)
+- Database Developer | Web Developer @ Jules exit media (2021 - Present)
+- GO @ JetBlue (2021 - Present)
 - Orthopedict Tech | Inventory manager @ Broward Health North Hospital (September 2018 - October 2021)
 
