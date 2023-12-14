@@ -16,13 +16,13 @@
 
 **To see the full project, Click the link below.**
 
-[Youtube Channel Analysis](https://github.com/JulesEnterprises/Youtube_Channel_Analysis/blob/main/youtube_demo%20(3).ipynb
+[Youtube Channel Analysis](https://github.com/JulesEnterprises/Youtube_Channel_Analysis/blob/main/youtube_demo%20(3).ipynb)
 
 
 ## Iphanie Supermarket inventory
 #### Personal Project | Plantation, FL
-- In this Proposal project: [Proposal](https://github.com/JulesEnterprises/jules-portfolio/blob/main/assets/_Iphanie%20Super%20Market%20Proposal.pdf) we analyze and outline all the needs of Iphanie Supermarket and propose adequate solutions based on our findings.
-- Oracle Database Modeler: [Table](https://github.com/JulesEnterprises/jules-portfolio/blob/main/assets/Table_update.png) Was used for the design of our tables and ERDs [ERD](https://github.com/JulesEnterprises/jules-portfolio/blob/main/assets/ERD_update.png).
+- In this [Proposal](https://github.com/JulesEnterprises/jules-portfolio/blob/main/assets/_Iphanie%20Super%20Market%20Proposal.pdf) Porject: we analyze and outline all the needs of Iphanie Supermarket and propose adequate solutions based on our findings.
+- Oracle Database Modeler: Was used for the design of our [Table](https://github.com/JulesEnterprises/jules-portfolio/blob/main/assets/Table_update.png) and [ERDs](https://github.com/JulesEnterprises/jules-portfolio/blob/main/assets/ERD_update.png).
 
 ### Education
 - Information technology |  Atlantic Technical College (Jun 2023)
