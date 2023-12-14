@@ -21,8 +21,8 @@
 
 ## Iphanie Supermarket inventory
 #### Personal Project | Plantation, FL
-- Utilized SQL
-
+- In this project: [Proposal](https://github.com/JulesEnterprises/jules-portfolio/blob/main/assets/_Iphanie%20Super%20Market%20Proposal.pdf) we analyze and outline all the needs of Iphanie Supermarket and propose adequate solutions based on our findings.
+- Oracle Database Modeler: [Table]()
 
 ### Education
 - Information technology |  Atlantic Technical College (Jun 2023)
