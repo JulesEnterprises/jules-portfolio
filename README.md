@@ -14,6 +14,8 @@
   
 ![output_18_0](https://github.com/JulesEnterprises/jules-portfolio/assets/149686001/66f45b15-e86e-4cb4-9d23-2dc10262098e)
 
+https://github.com/JulesEnterprises/Youtube_Channel_Analysis/blob/main/youtube_demo%20(2).ipynb 
+
 
 [Uploading Youtube_Channel_Analysis.html…]()
 
