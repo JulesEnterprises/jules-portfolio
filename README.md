@@ -7,17 +7,17 @@
 
 # Porjects
 ## Youtube Channel Annalysis
-** Personal Project | Pantation, FL **
+**Personal Project | Pantation, FL**
 - Utilized Python to analyze Youtube channels and gain insights into the online presence and popularity of the specified artists base on their channel statistics.
 - Implemented Youtube API technique using python to analyze the channels key metrics,  including views, and subscribers.
 - Aggregated and visualized the data by using Pandas, Seaborn to compile a professional report.
   
 ![output_18_0](https://github.com/JulesEnterprises/jules-portfolio/assets/149686001/66f45b15-e86e-4cb4-9d23-2dc10262098e)
 
-[Youtube Channel Analysis](https://github.com/JulesEnterprises/Youtube_Channel_Analysis/blob/main/youtube_demo%20(3).ipynb)
+**To see the full project, Click the link below.**
 
+[Youtube Channel Analysis](https://github.com/JulesEnterprises/Youtube_Channel_Analysis/blob/main/youtube_demo%20(3).ipynb
 
-[Uploading Youtube_Channel_Analysis.html…]()
 
 ## Iphanie Supermarket inventory
 #### Personal Project | Plantation, FL
