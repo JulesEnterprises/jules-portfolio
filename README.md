@@ -1,6 +1,7 @@
+# Junior Jules Portfolio
 # Database Developer | Data Analyst
 **Email: julesexitmedia@gmail.com**
-[LinkedIn](linkedin.com/in/junior-jules-3055a2281)
+**[Contact Info](linkedin.com/in/junior-jules-3055a2281)**
 
 #### Technical Skills: 
 - SQL(SQL Server, MYSQL, PostgresSQL, PL/SQL)
