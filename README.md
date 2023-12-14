@@ -1,4 +1,3 @@
-# Junior Jules Portfolio
 # Database Developer | Data Analyst
 - Email: julesexitmedia@gmail.com
 - Contact Info: [LinkedIn](linkedin.com/in/junior-jules-3055a2281)
